@@ -1,7 +1,7 @@
 {
     "name": "cloudflared",
     "author": "Daniel M. Matongo",
-    "githubRepository": "mmatongo/unraid-cloudflared",
+    "githubRepository": "666dsa666/unraid-cloudflared",
     "version": "2026.10.28",
     "pluginDirectory": "/usr/local/emhttp/plugins/cloudflared",
     "configDirectory": "/boot/config/plugins/cloudflared",

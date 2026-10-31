@@ -6,8 +6,7 @@
   author="Daniel M. Matongo"
   version="2026.10.28"
   launch="Settings/Cloudflared"
-  pluginURL="https://raw.githubusercontent.com/mmatongo/unraid-cloudflared/master/plugin/cloudflared.plg"
-  support="https://github.com/mmatongo/unraid-cloudflared/issues"
+  support="https://github.com/666dsa666/unraid-cloudflared"
   icon="cloudflared.png"
   min="6.11.5"
 >
